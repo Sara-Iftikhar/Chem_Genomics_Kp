@@ -1,0 +1,13 @@
+git+https://github.com/AtrCheema/AI4Water.git@dev
+easy-mpl
+seqmetrics
+scikit-learn
+scikit-optimize
+scipy
+pandas
+openpyxl
+bio
+biopython
+matplotlib
+numpy
+streamlit
